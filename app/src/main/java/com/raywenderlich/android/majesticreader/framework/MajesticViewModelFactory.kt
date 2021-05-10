@@ -46,7 +46,7 @@ object MajesticViewModelFactory : ViewModelProvider.Factory {
   }
 
   override fun <T : ViewModel?> create(modelClass: Class<T>): T {
-    if(MajesticViewModel::class.java.isAssignableFrom(modelClass)) {
+    if (MajesticViewModel::class.java.isAssignableFrom(modelClass)) {
       return modelClass.getConstructor(Application::class.java, Interactors::class.java)
           .newInstance(
               application,
