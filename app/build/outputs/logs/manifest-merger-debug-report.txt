@@ -1,0 +1,246 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [androidx.room:room-ktx:2.1.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/e62535fd472da5eef328b6da5d514695/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/8a59b1222d0e47ac69e7fa6bdebc4e32/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/eedd348b11c71137fe2d6200b78138bb/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/1c729b2cbfc71782e9ebf2956bbc26f8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/443e407688f005d2413fde9153d7b289/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/e9b639b1fe90d4e67d6f1db85a57e957/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/46beac3a1f4da49de6f56861967a0413/AndroidManifest.xml:17:1-30:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/a52d0087d703b7823f30d30d63f91e43/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/c572bea71557a90362c568f5f7d4341c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/21e239b4b93aa22efdf28120593086d3/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/bf990da8362fdb704dc6e9e1c8b6d909/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/0e94a3068265ebdc6dad7981ddb1ec25/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/636113c200ab4853831672b5b95542af/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/5a43c40bbda33e17938b68e5cfefb777/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/879425d3d53b4c58815c63ad83ca2e41/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/496f91f7d635bc300b43993962f031b7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/28af6300876cdef68433e2a2a0486150/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/f760ad35398adbf168ad5c1b87b305bd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/4297a879f79ccb941759addcc69de7ae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/1caa168c2d5072e90c83e1d7f8c0f495/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/6679eebe2df32c36cf4935ba2d029fba/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/24d1e8d356d3a6b5303790eb7ebbf38f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/19e0cf6dd19f8f25df3213671e4d2c03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/8bbae19fd798993c05ad3efcf6fea237/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/7bf5182d54a5880d061a8dffff678932/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/685adea46189599d7cb22b41829d1a83/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/ed6a525bcba2b23663e5459659b10118/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/97ec4be87c1dfee5fe204d43cbb839f4/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/321b23429b020dd227ce6d0e94de8353/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/37a1d023b362cbcf4f65a8a672a301f8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/d17a6e40da384e59bff60ba218f0dd25/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/88b3836939625a975ed875165fe7af36/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/67d2558944264b71d1fc4658b005c01f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/3b9986c2bc3bddfacd23d51c36de9225/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/66f27d2552ae0e24b629a3b9edec35db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/a6ffd2d626e6ca7d088db77903ada3af/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/7af1276c80327cd46a06d9987ce64143/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/4e40a6524789268302d00fd5a6c3d5a2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/a832adcc779dbd8b1859fb73e59c7115/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/69d533aa73e7030f1530a1c3f9f64f03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/a80b485392883bbf22c0102377df2953/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/6db5a492f577b00a8bdf634b4521368d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/1edd8c43a1d0c41434954352f8c775fb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/33f7f7cdca89d5c350ddcc42fb823ebd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/c1c968c7353c01566891e57cb487ef52/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:11-61
+		INJECTED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:3:11-69
+application
+ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:5:3-27:17
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/8a59b1222d0e47ac69e7fa6bdebc4e32/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/8a59b1222d0e47ac69e7fa6bdebc4e32/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/1c729b2cbfc71782e9ebf2956bbc26f8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/1c729b2cbfc71782e9ebf2956bbc26f8/AndroidManifest.xml:22:5-20
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/46beac3a1f4da49de6f56861967a0413/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/46beac3a1f4da49de6f56861967a0413/AndroidManifest.xml:24:5-28:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/a52d0087d703b7823f30d30d63f91e43/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/a52d0087d703b7823f30d30d63f91e43/AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/21e239b4b93aa22efdf28120593086d3/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/21e239b4b93aa22efdf28120593086d3/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/97ec4be87c1dfee5fe204d43cbb839f4/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/97ec4be87c1dfee5fe204d43cbb839f4/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/321b23429b020dd227ce6d0e94de8353/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/321b23429b020dd227ce6d0e94de8353/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/a6ffd2d626e6ca7d088db77903ada3af/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/a6ffd2d626e6ca7d088db77903ada3af/AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/7af1276c80327cd46a06d9987ce64143/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/7af1276c80327cd46a06d9987ce64143/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/97ec4be87c1dfee5fe204d43cbb839f4/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:11:7-33
+	android:label
+		ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:6:7-34
+	android:theme
+		ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:9:7-58
+activity#com.raywenderlich.android.majesticreader.presentation.MainActivity
+ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:13:5-17:16
+	android:label
+		ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:15:9-52
+	android:theme
+		ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:16:9-52
+	android:name
+		ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:14:9-50
+activity#com.raywenderlich.android.majesticreader.presentation.SplashActivity
+ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:20:5-26:16
+	android:name
+		ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:20:15-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:21:7-25:23
+action#android.intent.action.MAIN
+ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:22:9-60
+	android:name
+		ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:22:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:24:9-68
+	android:name
+		ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml:24:19-66
+uses-sdk
+INJECTED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.room:room-ktx:2.1.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/e62535fd472da5eef328b6da5d514695/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.1.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/e62535fd472da5eef328b6da5d514695/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/8a59b1222d0e47ac69e7fa6bdebc4e32/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-beta2] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/8a59b1222d0e47ac69e7fa6bdebc4e32/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/eedd348b11c71137fe2d6200b78138bb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/eedd348b11c71137fe2d6200b78138bb/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/1c729b2cbfc71782e9ebf2956bbc26f8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/1c729b2cbfc71782e9ebf2956bbc26f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/443e407688f005d2413fde9153d7b289/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/443e407688f005d2413fde9153d7b289/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/e9b639b1fe90d4e67d6f1db85a57e957/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/e9b639b1fe90d4e67d6f1db85a57e957/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/46beac3a1f4da49de6f56861967a0413/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.1.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/46beac3a1f4da49de6f56861967a0413/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/a52d0087d703b7823f30d30d63f91e43/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/a52d0087d703b7823f30d30d63f91e43/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/c572bea71557a90362c568f5f7d4341c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/c572bea71557a90362c568f5f7d4341c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/21e239b4b93aa22efdf28120593086d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/21e239b4b93aa22efdf28120593086d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/bf990da8362fdb704dc6e9e1c8b6d909/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/bf990da8362fdb704dc6e9e1c8b6d909/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/0e94a3068265ebdc6dad7981ddb1ec25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/0e94a3068265ebdc6dad7981ddb1ec25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/636113c200ab4853831672b5b95542af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/636113c200ab4853831672b5b95542af/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/5a43c40bbda33e17938b68e5cfefb777/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/5a43c40bbda33e17938b68e5cfefb777/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/879425d3d53b4c58815c63ad83ca2e41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/879425d3d53b4c58815c63ad83ca2e41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/496f91f7d635bc300b43993962f031b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/496f91f7d635bc300b43993962f031b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/28af6300876cdef68433e2a2a0486150/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/28af6300876cdef68433e2a2a0486150/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/f760ad35398adbf168ad5c1b87b305bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/f760ad35398adbf168ad5c1b87b305bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/4297a879f79ccb941759addcc69de7ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/4297a879f79ccb941759addcc69de7ae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/1caa168c2d5072e90c83e1d7f8c0f495/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/1caa168c2d5072e90c83e1d7f8c0f495/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/6679eebe2df32c36cf4935ba2d029fba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/6679eebe2df32c36cf4935ba2d029fba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/24d1e8d356d3a6b5303790eb7ebbf38f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/24d1e8d356d3a6b5303790eb7ebbf38f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/19e0cf6dd19f8f25df3213671e4d2c03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/19e0cf6dd19f8f25df3213671e4d2c03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/8bbae19fd798993c05ad3efcf6fea237/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/8bbae19fd798993c05ad3efcf6fea237/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/7bf5182d54a5880d061a8dffff678932/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/7bf5182d54a5880d061a8dffff678932/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/685adea46189599d7cb22b41829d1a83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/685adea46189599d7cb22b41829d1a83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/ed6a525bcba2b23663e5459659b10118/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/ed6a525bcba2b23663e5459659b10118/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/97ec4be87c1dfee5fe204d43cbb839f4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/97ec4be87c1dfee5fe204d43cbb839f4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/321b23429b020dd227ce6d0e94de8353/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/321b23429b020dd227ce6d0e94de8353/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/37a1d023b362cbcf4f65a8a672a301f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/37a1d023b362cbcf4f65a8a672a301f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/d17a6e40da384e59bff60ba218f0dd25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/d17a6e40da384e59bff60ba218f0dd25/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/88b3836939625a975ed875165fe7af36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/88b3836939625a975ed875165fe7af36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/67d2558944264b71d1fc4658b005c01f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/67d2558944264b71d1fc4658b005c01f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/3b9986c2bc3bddfacd23d51c36de9225/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/3b9986c2bc3bddfacd23d51c36de9225/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/66f27d2552ae0e24b629a3b9edec35db/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.1] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/66f27d2552ae0e24b629a3b9edec35db/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/a6ffd2d626e6ca7d088db77903ada3af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/a6ffd2d626e6ca7d088db77903ada3af/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/7af1276c80327cd46a06d9987ce64143/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/7af1276c80327cd46a06d9987ce64143/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/4e40a6524789268302d00fd5a6c3d5a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/4e40a6524789268302d00fd5a6c3d5a2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/a832adcc779dbd8b1859fb73e59c7115/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/a832adcc779dbd8b1859fb73e59c7115/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/69d533aa73e7030f1530a1c3f9f64f03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/69d533aa73e7030f1530a1c3f9f64f03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/a80b485392883bbf22c0102377df2953/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/a80b485392883bbf22c0102377df2953/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/6db5a492f577b00a8bdf634b4521368d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/6db5a492f577b00a8bdf634b4521368d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/1edd8c43a1d0c41434954352f8c775fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/1edd8c43a1d0c41434954352f8c775fb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/33f7f7cdca89d5c350ddcc42fb823ebd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/33f7f7cdca89d5c350ddcc42fb823ebd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/c1c968c7353c01566891e57cb487ef52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/c1c968c7353c01566891e57cb487ef52/AndroidManifest.xml:20:5-44
+INJECTED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+INJECTED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		ADDED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/eltinyang/StudioProjects/clean-architecture-android-materials/starter/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/46beac3a1f4da49de6f56861967a0413/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/46beac3a1f4da49de6f56861967a0413/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/46beac3a1f4da49de6f56861967a0413/AndroidManifest.xml:26:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/7af1276c80327cd46a06d9987ce64143/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/7af1276c80327cd46a06d9987ce64143/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/7af1276c80327cd46a06d9987ce64143/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/7af1276c80327cd46a06d9987ce64143/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/eltinyang/.gradle/caches/transforms-2/files-2.1/7af1276c80327cd46a06d9987ce64143/AndroidManifest.xml:24:13-79
